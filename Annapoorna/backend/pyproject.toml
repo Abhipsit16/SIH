@@ -20,4 +20,6 @@ dependencies = [
     "openai-whisper>=20250625",
     "ffmpeg>=1.4",
     "apscheduler>=3.11.0",
+    "tensorflow>=2.20.0",
 ]
+
